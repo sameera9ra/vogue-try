@@ -4,7 +4,7 @@ AI-powered virtual try-on app to improve online fashion shopping confidence.
 
 **Tagline:** Try It Before You Buy It — Powered by AI
 
-Vogue Try is a virtual try-on app project for the 8-Day AI Application Challenge. It helps users see how clothes may look on them before buying online.
+Vogue Try is a virtual try-on app project for the 8-Day AI Application Challenge. It helps users see how clothes may look on them before buying online. 
 
 ## Features
 - Virtual try-on workflow (conceptual)
